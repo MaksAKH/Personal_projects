@@ -1,2 +1,2 @@
 # Personal_projects
-Completed projects for my experience presantation
+Completed projects for my experience presentation
